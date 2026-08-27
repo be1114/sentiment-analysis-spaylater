@@ -7,7 +7,7 @@ This project focuses on analyzing public comments related to SPayLater collected
 The system is designed to perform a two-stage analysis. First, each comment is classified into **Positive, Negative, or Neutral** sentiment. After the sentiment is identified, the system performs an additional analysis to determine the **emotion expressed within the comment**.
 
 The overall concept of the project is:
-
+![System Architecture](Gambar/system-architecture.png)
 
 ## Objectives
 
